@@ -1,0 +1,26 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" fill="#E5E5E5"/>
+<g id="Yola Yoga Landing Page" clip-path="url(#clip0_9_6)">
+<rect width="1440" height="7500" transform="translate(-422 -4865)" fill="white"/>
+<g id="Pricing">
+<rect id="Base" x="-422" y="-938" width="1440" height="1168" fill="#F5F6F9"/>
+<g id="Card 1">
+<rect id="Base_2" x="-287" y="-588" width="368" height="668" fill="white"/>
+<g id="Button">
+<rect id="Rectangle 4493" x="-255.5" y="0.5" width="305" height="49" rx="3.5" stroke="#FF9F66"/>
+<g id="Group 5763">
+<g id="Rectangle 4494">
+<path d="M0 0H46C48.2091 0 50 1.79086 50 4V46C50 48.2091 48.2091 50 46 50H0V0Z" fill="#FF9F66"/>
+</g>
+<path id="Vector 48" d="M17 25H33M33 25L28 20M33 25L28 30" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_9_6">
+<rect width="1440" height="7500" fill="white" transform="translate(-422 -4865)"/>
+</clipPath>
+</defs>
+</svg>
